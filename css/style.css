@@ -169,3 +169,46 @@
     margin-bottom: 100px;
 }
 
+/* Positive */
+
+.positive {
+    height: 80vh;
+    width: 1600px;
+    border: 1px solid gray;
+    position: relative;
+}
+
+.positive-cont {
+    /* background-image: url("../images/watch.png"), url("../images/gradient2.png");
+    position: absolute; */
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+    /* border-radius: 8px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%); */
+}
+
+.grad {
+    margin-top: -320px;
+}
+
+.pos-desk {
+    margin-top: -280px;
+    margin-left: 65px;
+}
+
+#btn {
+    background-color: white;
+    color: orangered;
+}
+
+.pos-desk > h4 {
+    width: 459px;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
